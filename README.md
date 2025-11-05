@@ -106,7 +106,7 @@ __Day 2:__
 - Statistical test
 - Interpret biology
 
-[*Session 6 :: Gene Set Enrichment Analysis (GSEA) * ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session6-GSEA.html)
+[*Session 6 :: Gene Set Enrichment Analysis (GSEA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session6-GSEA.html)
 - background Concepts
 - Prepare gene lists
 - Define background universe

@@ -73,58 +73,22 @@ __Day 1:__
 [Introduction :: Introduction & workflow overview](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Introduction.html)
 
 [*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session1-preparation.html)
-- File structures and directory setup
-- Overview of R packages
-- Data types
-- QC
-- Normalization
-- Exploratory data analysis
 
-[*Session 2 :: RNA-seq Analysis Concepts* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session2-AnalysisConcepts.html)
-- Quality Control (QC) and its Importance
-- Count data vs. normalized data
-- Variance stabilisation (VST) and regularized log (rlog)
-- Metadata mapping
+[*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session2-DEA1.html)
   
-[*Session 3 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session3-DEA1.html)
-- Defining hypotheses
-- Interpreting results 
-- Annotation
+[*Session 3 :: Differential Expression Analysis (Part 2)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session3-DEA2.html)
 
-[*Session 4 :: Differential Expression Analysis (Part 2)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/DEA2.html)
-- statistical pitfalls
-- visualizations
-
+[*Session 4 :: Differential Expression Analysis (Part 3)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session4_DEA3.html)
 
 __Day 2:__
 
 [*Session 5 :: Over-Representation Analysis (ORA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session5-ORA.html)
-- background Concepts
-- Prepare gene lists
-- Define background universe
-- Select annotation database
-- Statistical test
-- Interpret biology
 
 [*Session 6 :: Gene Set Enrichment Analysis (GSEA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session6-GSEA.html)
-- background Concepts
-- Prepare gene lists
-- Define background universe
-- Select annotation database
-- Statistical test
-- Interpret biology
 
 [*Session 7 :: Mini-Project (Part 1)*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Exercises1.html)
-- Prepare Dataset
-- QC
-- Differential Expression Analysis
-- Annotation
-- Interpret biology
 
 [*Session 8 :: Mini-Project (Part 2)*](https://cecadbioinformaticscorefacility.github.io/Advancede_R_Course_2025/Exercises2.html)
-- ORA
-- GSEA
-- Interpret biology
 
 ## Getting Started
 To get started with the course, follow the link below

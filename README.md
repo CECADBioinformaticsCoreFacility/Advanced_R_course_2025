@@ -61,10 +61,6 @@ If you encounter any issues during the installation process, please:
 
 We strongly recommend that you try to familiarize yourself with R and RStudio by following some basic tutorials or trying out simple exercises. This will help you hit the ground running when the course starts.
 
-> [!IMPORTANT]  
-> $\color{Red}\textsf{We will be organizing a pre-session for the Advanced course. Attendance to the pre-session}$
-> $\color{Red}\textsf{is mandatory as we will be covering the "Reproducibility in R" in this session. This will}$
-> $\color{Red}\textsf{be covered in a Zoom session.}$
 ## Course Content 
 ---------------
 

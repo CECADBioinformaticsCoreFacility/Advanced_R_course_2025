@@ -6,7 +6,7 @@ Welcome to our R Programming Course, specifically designed for biologists, inclu
 
 ## Course Overview
 
-Participants will learn through a mix of lectures, hands-on exercises, and interactive discussions. By the end of the course, you should be able to perform data manipulation, create visualisations, and conduct statistical analyses using R
+Participants will learn through a mix of lectures, hands-on exercises, and interactive discussions. By the end of the course, you should be able to understand RNA-Seq data analysis and perform it using popular R packages designed for this purpose.
 
 ### Prerequisites
 

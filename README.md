@@ -93,14 +93,14 @@ __Day 2:__
 ## Getting Started
 To get started with the course, follow the link below
 
-https://cecadbioinformaticscorefacility.github.io/Advancede_R_Course_2025/
+https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/
 
 
 To clone this repository using Git:
 
 ****
 
-`git clone https://github.com/CECADBioinformaticsCoreFacility/Advancede_R_Course_2025.git`
+`git clone https://github.com/CECADBioinformaticsCoreFacility/Advanced_R_Course_2025.git`
 
 Navigate into the cloned directory to access all course materials, datasets, and exercises.
 

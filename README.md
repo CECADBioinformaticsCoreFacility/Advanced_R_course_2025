@@ -66,21 +66,21 @@ We strongly recommend that you try to familiarize yourself with R and RStudio by
 
 __Day 1:__
 
-[Introduction :: Introduction & workflow overview](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Introduction.html)
+[Introduction :: Introduction & workflow overview](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Introduction.html)
 
-[*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session1-preparation.html)
+[*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session1-preparation.html)
 
-[*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session2-DEA1.html)
+[*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session2-DEA1.html)
   
-[*Session 3 :: Differential Expression Analysis (Part 2)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session3-DEA2.html)
+[*Session 3 :: Differential Expression Analysis (Part 2)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session3-DEA2.html)
 
-[*Session 4 :: Differential Expression Analysis (Part 3)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session4_DEA3.html)
+[*Session 4 :: Differential Expression Analysis (Part 3)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session4_DEA3.html)
 
 __Day 2:__
 
-[*Session 5 :: Over-Representation Analysis (ORA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session5-ORA.html)
+[*Session 5 :: Over-Representation Analysis (ORA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session5-ORA.html)
 
-[*Session 6 :: Gene Set Enrichment Analysis (GSEA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Session6-GSEA.html)
+[*Session 6 :: Gene Set Enrichment Analysis (GSEA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session6-GSEA.html)
 
 [*Session 7 :: Mini-Project (Part 1)*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Exercises1.html)
 

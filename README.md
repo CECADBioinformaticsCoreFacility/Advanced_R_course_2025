@@ -66,7 +66,7 @@ We strongly recommend that you try to familiarize yourself with R and RStudio by
 
 __Day 1:__
 
-[Introduction :: Introduction & workflow overview](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Introduction.html)
+[Introduction :: Introduction](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Introduction.html)
 
 [*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session1-preparation.html)
 

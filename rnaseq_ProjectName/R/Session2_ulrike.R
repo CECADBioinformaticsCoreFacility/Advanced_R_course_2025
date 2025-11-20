@@ -15,7 +15,7 @@ M <- read.table(fs::path(data_dir,
                 quote = ""
                 )
 dim(M)
-dt <- DT::datatable(M |> head())
+dt <- DT::datatable(M |> head(),options(scrollX=TRUE))
 dt
 
 ##First of all, we **convert the column names to all-lowercase**, to avoid case issues:

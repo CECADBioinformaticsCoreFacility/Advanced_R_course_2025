@@ -40,7 +40,7 @@ browseVignettes("DESeq2")
 ## Setting Up the Input for DESeq2
 
 
-We do not have the colData -- but it is actually easy to create this matrix starting from the count matrix column names:
+# We do not have the colData -- but it is actually easy to create this matrix starting from the count matrix column names:
 
 
 # Step 1: split the count matrix column names at "_"
@@ -62,11 +62,11 @@ head(colData, n=2)
 # Step 4: The DESeq2 colData input should be a data.frame:
 colData <- as.data.frame(colData)
 
-# temporarily!
-colData$group <- 
-  purrr::reduce(colData[,c("age","sex","genotype","tissue")],
-                paste, sep=".")
 
+##colData$group <- 
+##  purrr::reduce(colData[,c("age","sex","genotype","tissue")],
+##                paste, sep=".")
+apply(colData[,c("age","sex","genotype","tissue")],1,paste,collapse=".")
 
 # Show a bit more of the final result:
 head(colData, n=9) 

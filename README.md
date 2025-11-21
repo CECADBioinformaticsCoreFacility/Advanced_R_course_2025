@@ -82,9 +82,9 @@ __Day 2:__
 
 [*Session 6 :: Gene Set Enrichment Analysis (GSEA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session6-GSEA.html)
 
-[*Session 7 :: Mini-Project (Part 1)*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Exercises1.html)
+[*Session 7 :: Mini-Project (Part 1)*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_Course_2025/Exercise.html)
 
-[*Session 8 :: Mini-Project (Part 2)*](https://cecadbioinformaticscorefacility.github.io/Advancede_R_Course_2025/Exercises2.html)
+*Session 8 :: Mini-Project (Part 2)*
 
 ## Getting Started
 To get started with the course, follow the link below

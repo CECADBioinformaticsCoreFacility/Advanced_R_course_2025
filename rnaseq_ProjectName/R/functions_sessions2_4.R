@@ -126,7 +126,7 @@ runORA <-
              minGSSize    = 10,
              maxGSSize    = 500,
              pvalueCutoff = 0.05,
-             qvalueCutoff = 02,
+             qvalueCutoff = 0.2,
              ...
              ) {
 

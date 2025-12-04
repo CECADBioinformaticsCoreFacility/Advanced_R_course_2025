@@ -127,6 +127,7 @@ runORA <-
              maxGSSize    = 500,
              pvalueCutoff = 0.05,
              qvalueCutoff = 0.2,
+             seed = TRUE,
              ...
              ) {
 
@@ -141,7 +142,8 @@ runORA <-
                                         universe=universe,
                                         OrgDb = OrgDb,
                                         keyType=keyType,
-                                        ont=ont)
+                                        ont=ont,
+                                        ...)
                },simplify=FALSE)
                  
 }
@@ -172,16 +174,8 @@ runGSEA <-
                                         geneList = geneList,
                                         OrgDb = OrgDb,
                                         keyType = keyType,
-                                        
                                         ont=ont,
-                                        minGSSize    = 10,
-                                        maxGSSize    = 500,
-                                        pvalueCutoff = 0.05,
-                                        seed         = TRUE,
-                                        by           = "fgsea",
-                                        nPermSimple  = 10000,
-                                        eps          = 1e-50,
-                                        verbose      = FALSE)
+                                        ...)
                },simplify=FALSE)
                  
 }

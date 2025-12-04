@@ -46,7 +46,7 @@ subset_counts <-
                                )
                         )
                    ) {
-            stop("Not entries of level_list are in colData(dds)!")
+            stop("Not all entries of level_list are in colData(dds)!")
         }
         keep <- Reduce(`|`,
                        lapply(names(level_list),

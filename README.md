@@ -72,7 +72,7 @@ __Day 1:__
 
 [*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session2-differential_expression.html)
   
-[*Session 3 :: Differential Expression Analysis (Part 2)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session3-DEA2.html)
+[*Session 3 :: Differential Expression Analysis (Part 2)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session3-differential-expression-NegativeBinomialSlides.html)
 
 [*Session 4 :: Differential Expression Analysis (Part 3)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2025/Session4_DEA3.html)
 
